@@ -38,7 +38,7 @@ Meu objetivo é criar projetos práticos, resolver problemas reais e evoluir con
 
 Sinta-se à vontade para se conectar comigo para falarmos sobre código, hardware ou até mesmo sobre filosofia!
 
-* 💼 **LinkedIn:** [Sua URL do LinkedIn aqui]
+* 💼 **LinkedIn:** https://www.linkedin.com/in/paulo-vitor-gamileira-alves-b80b99254/
 * 📧 **E-mail:** pvgamileira@gmail.com
 ---
 > *"Você tem poder sobre a sua mente - não sobre eventos externos. Perceba isso, e você encontrará a sua força." — Marco Aurélio.* > **Minha dica como dev: persista sempre e foque no essencial. A evolução verdadeira vem de não parar de codar.**
